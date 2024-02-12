@@ -1,0 +1,10 @@
+from add import add
+from sub import sub
+from mul import mul1
+from div import div
+
+div(60,10)
+
+mul1(6,6)
+
+div(60,10)
